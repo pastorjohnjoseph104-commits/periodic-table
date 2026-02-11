@@ -1,4 +1,4 @@
- periodic-table
+ periodic table of elements
 <!DOCTYPE html>
 <html lang="en">
 <head>

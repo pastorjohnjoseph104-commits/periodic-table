@@ -1,8 +1,3 @@
-public class Debugging {
-    public static void main(String[] args) {
-        System.out.println("Let's debug!");
-    }
-}
     <!DOCTYPE html>
 <html lang="en">
 <head>

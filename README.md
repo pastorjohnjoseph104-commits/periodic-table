@@ -35,7 +35,7 @@
             margin: 10px 0;
             font-size: 1.2em;
         }
-        .card p {
+        .card p1 {
             margin: 5px 0;
             font-size: 0.9em;
         }
